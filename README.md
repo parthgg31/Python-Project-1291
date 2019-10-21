@@ -1,10 +1,7 @@
 # Python-Project-1291
-A project on Hotel Management.
+#A project on Hotel Management.
 
 
-
- 
- 
  class hotelfarecal:
 
     def __init__(self,rt='',s=0,p=0,r=0,t=0,a=1800,name='',address='',cindate='',coutdate='',rno=101):
